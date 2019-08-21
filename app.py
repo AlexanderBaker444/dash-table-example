@@ -12,9 +12,9 @@ import pandas as pd
 
 
 ########### Define your variables ######
-myheading = "Best Craft Beers in DC"
-mysubheading = "August 2019"
-tabtitle = 'python rocks'
+myheading = "Let's Wine"
+mysubheading = "Let's see which are white and which are red"
+tabtitle = 'wine stuff'
 filename = 'wine.csv'
 sourceurl = 'https://www.beeradvocate.com/beer/top-rated/us/dc/'
 githublink = 'https://github.com/austinlasseter/dash-table-example'
