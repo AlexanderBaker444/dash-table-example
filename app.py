@@ -17,7 +17,7 @@ mysubheading = "Let's see which are white and which are red"
 tabtitle = 'wine stuff'
 filename = 'wine.csv'
 sourceurl = 'https://www.beeradvocate.com/beer/top-rated/us/dc/'
-githublink = 'https://github.com/austinlasseter/dash-table-example'
+githublink = 'https://github.com/AlexanderBaker444/dash-table-example'
 
 ########### Set up the data
 df = pd.read_csv(filename)
